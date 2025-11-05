@@ -1,3 +1,19 @@
+## 🧠 Sobre o Projeto
+
+Este projeto foi desenvolvido em contexto **acadêmico** por estudantes da **Universidade Anhembi Morumbi – Unidade Mooca**, dos cursos de **Sistemas de Informação** e **Direito**, com o objetivo de promover maior **acessibilidade jurídica** ao cidadão brasileiro.
+
+Trata-se de um **chatbot jurídico** que utiliza a **API Gemini** para interpretar e responder dúvidas com base em leis brasileiras, aplicando os princípios do **Visual Law** para tornar o conteúdo mais claro, visual e compreensível.
+
+### 📚 Funcionalidades
+
+- Consulta automatizada às leis diretamente do site oficial do Planalto.
+- Leitura e interpretação de documentos em PDF para fins de **análise e estudo**.
+- Interface acessível e pensada para facilitar o entendimento jurídico por qualquer cidadão.
+
+> ⚠️ **Aviso Importante:** Este sistema tem caráter **educacional e de apoio**. Ele **não substitui a orientação de profissionais da área jurídica**. Para decisões legais concretas, é essencial consultar um advogado ou especialista qualificado.
+
+---
+
 ## ⚙️ Configuração Inicial
 
 Para o melhor funcionamento do projeto, crie um arquivo `.env` na raiz e adicione a seguinte linha:
