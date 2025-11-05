@@ -39,8 +39,6 @@ Após configurar o `.env`, execute o arquivo `scraper.py`. Ele fará a leitura d
 
 ## 👥 Idealizadores do Projeto
 
-Este projeto foi desenvolvido por estudantes dos cursos de **Sistemas de Informação** e **Direito**, com o objetivo de facilitar o acesso e a análise de legislações brasileiras por meio de tecnologias de IA.
-
 | Nome                             | Curso                 |
 |----------------------------------|------------------------|
 | Camila Marcely Franzoso          | Direito                |
