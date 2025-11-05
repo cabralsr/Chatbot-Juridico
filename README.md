@@ -18,3 +18,21 @@ Após configurar o `.env`, execute o arquivo `scraper.py`. Ele fará a leitura d
 - 🌐 [Marco Civil da Internet – Lei nº 12.965/2014](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm)  
 - 🎨 [Lei de Direitos Autorais – Lei nº 9.610/1998](https://www.planalto.gov.br/ccivil_03/Leis/L9610.htm)  
 - ⚖️ [Código Penal – Decreto-Lei nº 2.848/1940](https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm)
+
+---
+
+## 👥 Idealizadores do Projeto
+
+Este projeto foi desenvolvido por estudantes dos cursos de **Sistemas de Informação** e **Direito**, com o objetivo de facilitar o acesso e a análise de legislações brasileiras por meio de tecnologias de IA.
+
+| Nome                             | Curso                 |
+|----------------------------------|------------------------|
+| Camila Marcely Franzoso          | Direito                |
+| Davi Casemiro Silva              | Direito                |
+| Eduardo Moraes                   | Sistemas de Informação |
+| Elton Lopes de Menezes           | Sistemas de Informação |
+| Flávio Tonelotto                 | Direito                |
+| Guilherme Albuquerque Duarte     | Sistemas de Informação |
+| Guilherme Cabral Mendes Mariano | Sistemas de Informação |
+| Julia Teixeira                   | Direito                |
+| Nicolas Ribeiro de Holanda       | Sistemas de Informação |
