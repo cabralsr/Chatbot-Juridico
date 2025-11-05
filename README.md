@@ -12,7 +12,7 @@ GOOGLE_API_KEY="SUA_CHAVE_API"
 
 ## 🚀 Execução
 
-Após configurar o `.env`, execute o arquivo `backend.py`. Ele fará a leitura dos links diretamente do site do Planalto, acessando conteúdos relacionados às seguintes legislações:
+Após configurar o `.env`, execute o arquivo `scraper.py`. Ele fará a leitura dos links diretamente do site do Planalto, acessando conteúdos relacionados às seguintes legislações:
 
 - 📜 [Lei Geral de Proteção de Dados Pessoais (LGPD) – Lei nº 13.709/2018](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm)  
 - 🌐 [Marco Civil da Internet – Lei nº 12.965/2014](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm)  
