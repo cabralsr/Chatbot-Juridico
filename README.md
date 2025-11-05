@@ -22,7 +22,7 @@ Para o melhor funcionamento do projeto, crie um arquivo `.env` na raiz e adicion
 GOOGLE_API_KEY="SUA_CHAVE_API"
 ```
 
-> 🔐 **Importante:** Troque `"SUA_CHAVE_API"` pela chave gerada no https://aistudio.google.com/ap-keys
+> 🔐 **Importante:** Troque `"SUA_CHAVE_API"` pela chave gerada no https://aistudio.google.com/api-keys
 
 ---
 
