@@ -51,7 +51,7 @@ def carregar_modelos_e_indice():
     index_geral.add(np.array(embeddings_documentos).astype('float32'))
 
     generation_config = {"temperature": 0.5, "top_p": 1, "top_k": 1, "max_output_tokens": 2048}
-    model_gen = genai.GenerativeModel(model_name="gemini-1.5-flash", generation_config=generation_config)
+    model_gen = genai.GenerativeModel(model_name="gemini-2.5-flash", generation_config=generation_config)
 
     print("Modelos e base geral carregados com sucesso.")
     return model_emb, index_geral, model_gen, documentos_gerais
@@ -97,7 +97,7 @@ def obter_resposta_assistente(query_usuario, model_emb, index, model_gen, docume
         Além disso, você analisa a pergunta do usuário. Se for uma pergunta rasa, responda de forma breve e direta, 
         informando somente o ano, número da lei e o nome da lei, porém se a pergunta for bem elaborada, amplie a resposta fornecida 
         com resumo da lei e seus aspectos, mas se limite a fornecer 3 leis, utilize emotes para que o usuário se sinta mais confortável 
-        diante a resposta.
+        diante a resposta, busque usar os aspectos do processamento de linguagem natural (PLN).
 
         Sempre faça um adendo, na qual o usuário deve procurar profissionais capacitados do âmbito do direito, para afirmar se o uso 
         dessas leis são de fato coerentes com o caso apresentado e reforce que você é uma assistente virtual.
