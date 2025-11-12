@@ -36,7 +36,18 @@ Após configurar o `.env`, execute o arquivo `scraper.py`. Ele fará a leitura d
 - ⚖️ [Código Penal – Decreto-Lei nº 2.848/1940](https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm)
 
 ---
+## 🔮 Próximas Atualizações
+Estamos trabalhando para evoluir o projeto com novas funcionalidades que vão ampliar sua utilidade e acessibilidade:
 
+
+- 📖 Integração de um Dicionário Jurídico
+Para auxiliar na tradução do “juridiquês”, tornando normas e termos técnicos mais compreensíveis para qualquer cidadão.
+
+
+- 🌐 Acesso via URL Pública
+Disponibilizar o chatbot em uma interface web acessível pela internet, sem necessidade de compilação local, permitindo uso em qualquer dispositivo.
+
+---
 ## 👥 Idealizadores do Projeto
 
 | Nome                             | Curso                 |
