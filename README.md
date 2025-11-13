@@ -18,13 +18,7 @@ Trata-se de um **chatbot jurídico** que utiliza a **API Gemini** para interpret
 
 O assistente está disponível publicamente e pode ser acessado através da URL:
 
-**[Veredictum - Chatbot](https://chatbot-juridico-yzhcfwekgsdpuuzycdo3yn.streamlit.app)**
-
-Ou clique no botão abaixo:
-
-[](https://chatbot-juridico-yzhcfwekgsdpuuzycdo3yn.streamlit.app)
-
------
+**[🤖Veredictum - Chatbot](https://chatbot-juridico-yzhcfwekgsdpuuzycdo3yn.streamlit.app)**
 
 ## ⚙️ Configuração Inicial (Para Desenvolvedores)
 
