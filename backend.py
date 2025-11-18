@@ -50,7 +50,7 @@ def carregar_modelos_e_indice():
     index_geral = faiss.IndexFlatL2(d)
     index_geral.add(np.array(embeddings_documentos).astype('float32'))
 
-    generation_config = {"temperature": 0.5, "top_p": 1, "top_k": 1, "max_output_tokens": 2048}
+    generation_config = {"temperature": 0.2, "top_p": 1, "top_k": 1, "max_output_tokens": 2048}
     model_gen = genai.GenerativeModel(model_name="gemini-2.5-flash", generation_config=generation_config)
 
     print("Modelos e base geral carregados com sucesso.")
